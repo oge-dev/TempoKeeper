@@ -29,8 +29,8 @@ The Launch Countdown Timer project is a dynamic web component where users can ob
 
 ## Solution
 
-- **Solution URL**: [GitHub Repository](https://github.com/oge-dev/Launch-Countdown-Timer)
-- **Live Demo**: [Live Site](https://oge-dev.github.io/Launch-Countdown-Timer/)
+- **Solution URL**: [GitHub Repository](https://github.com/geliettech/Launch-Countdown-Timer)
+- **Live Demo**: [Live Site](https://launch-countdown-timer-365e6e.netlify.app/)
 
 ## Development Process
 
@@ -112,6 +112,6 @@ To further develop this project, I plan to:
 
 ## Author
 
-- **Portfolio** - [Oge](https://uhegbu-ogechi-juliet.vercel.app/)
-- **Frontend Mentor** - [@oge-dev](https://www.frontendmentor.io/profile/oge-dev)
-- **Twitter** - [@oge_dev](https://x.com/oge_dev)
+- **Portfolio** - [Oge](https://ogechiuhegbu.vercel.app/)
+- **Frontend Mentor** - [@geliettech](https://www.frontendmentor.io/profile/geliettech)
+- **Twitter** - [@geliettech](https://x.com/geliettech)
